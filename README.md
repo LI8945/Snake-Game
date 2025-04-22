@@ -28,7 +28,11 @@ A classic arcade-style snake game built using Python's turtle module! Guide your
   
   Step 3: Watch Out!
   Avoid the edges of the screen. If you hit a wall or run into your own tail — reset!
-  
+
+
+  "https://github.com/user-attachments/assets/145fe36a-38a6-40e5-a5c9-d5e3f627fefb"
+
+
   Step 4: Try Again
   The game resets the snake and score when you lose, but your best score is saved.
 
