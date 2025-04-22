@@ -31,6 +31,8 @@ A classic arcade-style snake game built using Python's turtle module! Guide your
 
 
   "https://github.com/user-attachments/assets/145fe36a-38a6-40e5-a5c9-d5e3f627fefb"
+  <video src="./assets/snake-game-demo.mp4" controls width="500"></video>
+
 
 
   Step 4: Try Again
