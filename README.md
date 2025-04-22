@@ -21,7 +21,7 @@ A classic arcade-style snake game built using Python's turtle module! Guide your
   Step 1: Start the Game
   A white snake appears in the center, ready to move. Press the arrow keys to begin.
   
-  <img width="599" alt="Screenshot 2025-04-21 at 10 56 30 PM" src="https://github.com/user-attachments/assets/fc2c0f00-2743-4269-a6b9-220a2218d55d" />
+  <img width="350" alt="Screenshot 2025-04-21 at 10 56 30 PM" src="https://github.com/user-attachments/assets/fc2c0f00-2743-4269-a6b9-220a2218d55d" />
 
   Step 2: Eat the Food
   Move toward the blue food. Each time you eat, the snake grows longer and the score increases.
@@ -30,8 +30,8 @@ A classic arcade-style snake game built using Python's turtle module! Guide your
   Avoid the edges of the screen. If you hit a wall or run into your own tail — reset!
 
 
-  "https://github.com/user-attachments/assets/145fe36a-38a6-40e5-a5c9-d5e3f627fefb"
-  <video src="./assets/snake-game-demo.mp4" controls width="500"></video>
+  <video src="https://github.com/user-attachments/assets/145fe36a-38a6-40e5-a5c9-d5e3f627fefb" controls width="350"></video>
+
 
 
 
