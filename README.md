@@ -1,4 +1,4 @@
-🐍 Snake Game
+#🐍 Snake Game
 A classic arcade-style snake game built using Python's turtle module! Guide your snake to eat food, grow longer, and avoid crashing into the walls or your own tail. Watch your score climb and try to beat your high score!
 
 🎮 How to Play
